@@ -1,1 +1,1 @@
-# mgti
+# Static Site for MGTI
