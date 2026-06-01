@@ -11,9 +11,72 @@
     <link rel="stylesheet" href="shared/styles.css">
 </head>
 <body data-page="6040">
-    <div data-include="banner"></div>
-    <div data-include="header"></div>
-    <div data-include="nav"></div>
+    <div class="attention-banner">
+    <div class="container">
+        <div class="has-text-centered">
+            <strong>ATTENTION: CGA Certificate Holders</strong> —
+            CGA will no longer provide certification services for ASSE 6015/CGA M-1, ASSE 6035, or ASSE 6055 credentials.
+            <a href="https://www.medgascerts.com/announcement/cga-certification-services/">Click here to learn more</a>.
+        </div>
+    </div>
+</div>
+
+    <header class="site-header">
+    <div class="container">
+        <a href="index.html">
+            <p class="site-title">Medical Gas Training Institute</p>
+            <p class="site-tagline">ASSE 6005 &bull; 6010 &bull; 6020 &bull; 6030 &bull; 6040 &bull; 6050</p>
+        </a>
+    </div>
+</header>
+
+    <nav class="nav-primary navbar" role="navigation" aria-label="main navigation">
+    <div class="container">
+        <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarMenu">
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+        </a>
+
+        <div id="navbarMenu" class="navbar-menu">
+            <div class="navbar-start">
+                <a class="navbar-item" data-nav="home" href="index.html">Home</a>
+
+                <div class="navbar-item has-dropdown is-hoverable" data-nav-group="about">
+                    <a class="navbar-link is-arrowless" data-nav="about">About</a>
+                    <div class="navbar-dropdown">
+                        <a class="navbar-item" data-nav="about-page" href="about.html">About MGTI</a>
+                        <a class="navbar-item" data-nav="standards" href="standards.html">Standards of Conduct &amp; Policies</a>
+                    </div>
+                </div>
+
+                <div class="navbar-item has-dropdown is-hoverable is-active" data-nav-group="certifications">
+                    <a class="navbar-link is-arrowless" data-nav="certifications">Certifications</a>
+                    <div class="navbar-dropdown">
+                        <a class="navbar-item" data-nav="certifications-page" href="certifications.html">All Certifications</a>
+                        <hr class="navbar-divider">
+                        <a class="navbar-item" data-nav="6005" href="6005.html">ASSE 6005 &mdash; Generalist</a>
+                        <a class="navbar-item" data-nav="6010" href="6010.html">ASSE 6010 &mdash; Installer</a>
+                        <a class="navbar-item" data-nav="6015" href="6015.html">ASSE 6015 &mdash; Bulk Installer</a>
+                        <a class="navbar-item" data-nav="6020" href="6020.html">ASSE 6020 &mdash; Inspector</a>
+                        <a class="navbar-item" data-nav="6030" href="6030.html">ASSE 6030 &mdash; Verifier</a>
+                        <a class="navbar-item" data-nav="6035" href="6035.html">ASSE 6035 &mdash; Bulk Verifier</a>
+                        <a class="navbar-item is-active" data-nav="6040" href="6040.html">ASSE 6040 &mdash; Maintenance</a>
+                        <a class="navbar-item" data-nav="6050" href="6050.html">ASSE 6050 &mdash; Instructor</a>
+                        <hr class="navbar-divider">
+                        <a class="navbar-item" data-nav="cert-lookup" href="cert-lookup.html">Certification Look Up</a>
+                    </div>
+                </div>
+
+                <a class="navbar-item" data-nav="exams" href="exams.html">Exams</a>
+                <a class="navbar-item" data-nav="training" href="training-partners.html">Training Partners</a>
+                <a class="navbar-item" data-nav="recertification" href="recertification.html">Re-Certification</a>
+                <a class="navbar-item" data-nav="contact" href="contact.html">Contact Us</a>
+            </div>
+        </div>
+    </div>
+</nav>
+
 
     <div class="page-hero">
         <div class="container">
@@ -76,7 +139,46 @@
         </div>
     </div>
 
-    <div data-include="footer"></div>
-    <script src="shared/include.js"></script>
+    <footer class="site-footer">
+    <div class="container">
+        <div class="columns">
+            <div class="column">
+                <p><strong style="color:rgba(255,255,255,0.9)">Medical Gas Training Institute</strong></p>
+                <p>470 Mast Road, Suite B<br>Goffstown, NH 03045</p>
+            </div>
+            <div class="column">
+                <p><strong style="color:rgba(255,255,255,0.9)">Contact</strong></p>
+                <p>
+                    Phone: <a href="tel:6035185804">603.518.5804</a><br>
+                    Email: <a href="mailto:support@medgasinstitute.com">support@medgasinstitute.com</a>
+                </p>
+            </div>
+            <div class="column">
+                <p><strong style="color:rgba(255,255,255,0.9)">Quick Links</strong></p>
+                <p>
+                    <a href="certifications.html">Certifications</a><br>
+                    <a href="exams.html">Exams</a><br>
+                    <a href="recertification.html">Re-Certification</a><br>
+                    <a href="cert-lookup.html">Certification Look Up</a>
+                </p>
+            </div>
+        </div>
+        <hr style="border-color:rgba(255,255,255,0.15); margin:1rem 0 0.75rem;">
+        <div class="has-text-centered">
+            <p>&copy; 2022 Medical Gas Training Institute. All rights reserved.</p>
+        </div>
+    </div>
+</footer>
+<script>
+    document.querySelectorAll('.navbar-burger').forEach(function(burger) {
+        burger.addEventListener('click', function() {
+            var target = document.getElementById(burger.dataset.target);
+            burger.classList.toggle('is-active');
+            if (target) target.classList.toggle('is-active');
+        });
+    });
+</script>
+
+    
 </body>
 </html>
