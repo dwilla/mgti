@@ -73,7 +73,7 @@ body {
     color: #fff !important;
 }
 /* active dropdown trigger (when on a sub-page) */
-.nav-primary .navbar-item.has-dropdown.is-active > .navbar-link {
+.nav-primary .navbar-item.has-dropdown.is-current-section > .navbar-link {
     background-color: var(--mgti-accent) !important;
     color: #fff !important;
 }
