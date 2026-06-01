@@ -49,7 +49,8 @@ def build_nav(page_key: str) -> str:
             tag = m.group(0)
             if f'data-nav-group="{group}"' not in tag:
                 return tag
-            return re.sub(r'class="([^"]*)"', lambda c: f'class="{c.group(1)} is-active"', tag, count=1)
+            # Use a custom class — not is-active, which Bulma uses to force the dropdown open
+            return re.sub(r'class="([^"]*)"', lambda c: f'class="{c.group(1)} is-current-section"', tag, count=1)
         nav = re.sub(r'<div [^>]*data-nav-group="[^"]*"[^>]*>', activate_group, nav)
 
     return nav
