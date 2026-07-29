@@ -46,8 +46,6 @@
 
    4.4 [Notification to Certified Personnel and Stakeholders of Updated and New Certifications](#44-notification-to-certified-personnel-and-stakeholders-of-updated-and-new-certifications)
 
-   4.5 [Use of Certification Mark](#45-use-of-certification-mark)
-
 5. [Adherence to Professional Standards of Conduct](#5-adherence-to-professional-standards-of-conduct)
 
    5.1 [Professional Standards of Conduct](#51-professional-standards-of-conduct)
@@ -148,6 +146,15 @@ comprised of a verification of work experience prerequisites, a 24 or 32-hour
 training course, recertification trainings, and written and
 practical examinations.
 
+MGTI delivers its training through two pathways: in-person instruction
+in a classroom setting, and online instruction delivered through MGTI's
+learning management system. The certification requirements are identical
+for both pathways — the same prerequisites, the same application
+information, the same examination content and passing scores, and the
+same certification decision process. Where the administrative procedure
+differs between the two pathways, that difference is identified in the
+applicable section below.
+
 ## 2.1 Certifications Administered by MGTI
 
 ASSE 6005 Medical Gas Systems Generalist
@@ -172,12 +179,48 @@ ASME IX Brazing Certification
 
 ## 2.2 Application Procedures
 
-$$$
-Candidates must complete the Program Application and submit it to the
-program administrator for review prior to entering into a certification
-program. In addition to information that verifies eligibility, the
-application contains a Professional Standard of Conduct. These standards
-must be adhered to in order to remain an authorized certificate holder.
+Every candidate must complete and submit the Program Application before a
+certification is granted. The application collects the information that
+verifies eligibility, requires the candidate to attest to the experience
+prerequisites applicable to the certification sought, and requires the
+candidate's agreement to the *Professional Standards of Conduct* set
+forth in Section 5. These standards must be adhered to in order to remain
+an authorized certificate holder. Applications are reviewed by the
+program administrator, and the certification decision is made
+independently of the training process as described in Section 2.3.
+
+**In-person training.** Candidates complete the Program Application and
+submit it to the program administrator for review prior to entering into
+a certification program.
+
+**Online training.** The Program Application is completed within the MGTI
+learning management system after the candidate has completed all lessons
+of the online training course, and must be submitted before the final
+examination is released to the candidate. In addition to the eligibility
+information and the *Professional Standards of Conduct* agreement, the
+online application requires:
+
+A. The candidate's current contact and employer information
+
+B. A photograph of the candidate for use on the certification record and
+   identification card
+
+C. Attestation to the experience prerequisites specific to the
+   certification sought
+
+D. Supporting documentation where a prerequisite requires it, such as a
+   current ASSE 6030 certificate for an ASSE 6035 candidate, or the prior
+   certificate of a candidate transferring an existing certification from
+   another provider
+
+E. An affidavit that the candidate is the person who will sit the final
+   examination, that the examination will be completed without
+   assistance, and that only the reference materials permitted for that
+   examination will be used
+
+Regardless of the pathway by which a candidate applies, MGTI verifies
+that the required training has been completed and that a complete
+application is on file before a certification is issued.
 
 ## 2.3 Prerequisites
 
@@ -188,6 +231,15 @@ experience in the Compressed Medical Gas industry or related mechanical/piping f
 a level of competency necessary to install, maintain, inspect, repair, verify, and design these types of systems in accordance with industry standards and regulatory requirements. Experience prerequisites are based on the ASSE 6000
 Standard. MGTI also requires the completion of a recognized training course, led by
 a certified instructor, prior to taking any of its ASSE 6000 certification examinations.
+
+Experience prerequisites are verified by candidate attestation. Each
+candidate must affirm, as part of the Program Application, that they meet
+the specific experience requirements of the certification sought, and
+must provide supporting documentation where the ASSE 6000 Standard or
+MGTI requires a prerequisite credential. Attestations are subject to
+audit by MGTI. A candidate found to have misrepresented their
+qualifications is subject to the provisions of Section 5.2, including
+delay, denial, or revocation of certification.
 
 MGTI recognizes that offering both training and certification creates a
 potential threat to impartiality, and manages this threat as follows:
@@ -251,6 +303,17 @@ distribute, or display these examination questions by any means, in
 whole or in part. Doing so may result in severe civil and criminal
 penalties and be cause for removal form the certification rolls.
 
+Examination content delivered online is held to the same standard.
+Examination items are stored in MGTI's secure database and are accessible
+only to authorized MGTI personnel through access-controlled
+administrative systems, with access restricted by role-based
+authentication and granted only to those personnel involved in the
+examination process who have signed the Non Disclosure and
+Confidentiality Agreement. Examination items are not released to
+candidates in any printable or downloadable form, no examination
+materials are physically transported at any point, and candidate
+responses are recorded directly to MGTI's secure records.
+
 ## 3.4 Maintaining and Updating Examinations
 
 All examinations are maintained to the highest standards through
@@ -271,16 +334,48 @@ validity.
 
 ## 3.5 Examination Process
 
-$$$
 All examinations administered by MGTI are proctored by qualified
-individuals, under consistent conditions conducive to testing.
-Examinations will be scheduled at sites convenient for candidates and
-deemed appropriate by MGTI. Completed exams shall be returned to the
-MGTI offices as soon as possible by the proctor. All practical exams
-(brazing tests) shall be done under the conditions described in the
-Medical Gas Brazing Qualifications instruction manual, and all brazing
-coupons will be sent in to and inspected by a certified welding
-inspector.
+individuals in accordance with Section 3.7, under consistent conditions
+conducive to testing. Examination content, form length, and time limits
+are the same for a given certification regardless of the pathway by which
+the candidate received training.
+
+**In-person training.** Examinations will be scheduled at sites
+convenient for candidates and deemed appropriate by MGTI. Completed exams
+shall be returned to the MGTI offices as soon as possible by the proctor.
+
+**Online training.** Examinations are delivered through MGTI's secure,
+access-controlled learning management system. The candidate must be
+authenticated to their own account, and the final examination is released
+only after the candidate has completed the required training and
+submitted a complete Program Application. Each examination is assembled
+at the time the candidate begins it, by randomly selecting the number of
+items established for that certification from the validated item bank for
+that certification. The order of the items, and the order of the answer
+options within each item, are randomized for each candidate, so that no
+two examination forms are identical. The time limit established for that
+certification begins when the candidate starts the examination and is
+enforced by the system, which submits the examination automatically for
+scoring when the time limit is reached. Within the time limit the
+candidate may move freely among the items, flag items for later review,
+and change answers before submitting. If a candidate's session is
+interrupted, the examination may be resumed from the point of
+interruption; elapsed time continues to count against the time limit.
+Candidates are permitted to use the reference materials identified for
+that examination, which are stated in the candidate handbook and
+acknowledged by the candidate on the Program Application.
+
+Candidates enrolled in online training must complete the training and the
+final examination, including any re-examination, within one hundred
+eighty (180) days of enrollment. Access to the course and the examination
+expires at the end of that period, and a candidate who has not completed
+the examination within it must re-enroll.
+
+All practical exams (brazing tests) shall be done under the conditions
+described in the Medical Gas Brazing Qualifications instruction manual,
+and all brazing coupons will be sent in to and inspected by a certified
+welding inspector. This requirement applies to candidates of both
+pathways.
 
 ## 3.6 Policy and Guidelines for Testing People With Disabilities
 
@@ -305,49 +400,124 @@ appropriate. Requests must be submitted to and reviewed by MGTI prior to
 scheduling the examination, and should indicate the nature of
 the disability and the accommodation requested.
 Candidates may also need to provide documentation of the disability and
-the necessary accommodation by a licensed medical professional. Requests for
-special arrangements will be considered on a case-by-case basis, and
-will not require additional costs for the candidate.
+the necessary accommodation by a licensed medical professional.
+Accommodations available for examinations delivered online include, but
+are not limited to, extended examination time, which MGTI applies to the
+candidate's examination record before the examination is released.
+Requests for special arrangements will be considered on a case-by-case
+basis, and will not require additional costs for the candidate.
 
 ## 3.7 Proctor Information
 
-$$$
-MGTI exams may be proctored by a third party when necessary. When this
-is the case proctors will be required to sign an agreement verifying
-that exams will be proctored professionally and in accordance with the
-guidelines set forth, including the maintenance of confidentiality and
-impartiality and the avvoidance of any conflicts of interest. Whether exams are
-proctored by MGTI personnel or another proctor, MGTI is committed to
-maintaining the integrity and security of the exams, exam items/questions, and
-the examination process.
+MGTI exams may be proctored by a third party when necessary. When this is
+the case proctors will be required to accept an agreement verifying that
+exams will be proctored professionally and in accordance with the
+guidelines set forth, including confirmation of the candidate's identity,
+the maintenance of confidentiality and impartiality, and the avoidance of
+any conflicts of interest. The proctor designated must be a person who
+does not have a personal interest in the outcome of the candidate's
+examination. Whether exams are proctored by MGTI personnel or another
+proctor, MGTI is committed to maintaining the integrity and security of
+the exams, exam items/questions, and the examination process.
+
+**In-person training.** Third party proctors sign the proctor agreement
+before administering the examination.
+
+**Online training.** Each candidate for an initial certification
+examination must designate a proctor (witness) before the examination is
+released. MGTI contacts the designated proctor directly and presents the
+proctor agreement for that person's acceptance. By accepting, the proctor
+attests that they confirmed the identity of the candidate, that they
+witnessed the examination environment and that the candidate completed
+the examination without assistance beyond the permitted reference
+materials, and that they will maintain confidentiality and impartiality
+and avoid any conflict of interest.
+
+For online examinations, proctor confirmation is a condition of
+certification rather than a condition of sitting the examination. A
+candidate may begin the examination once a proctor has been designated,
+but no certification is issued until the designated proctor's acceptance
+and confirmation have been received and recorded in the candidate's file.
+If a confirmation is not received, or if the designated proctor declines
+to confirm, the certification is not processed and the matter is referred
+to MGTI staff for review.
+
+Recertification examinations are not proctored, as described in
+Section 4.2.
 
 ## 3.8 Examination Scoring
 
-$$$
-Scoring of exams happens as soon as possible by the MGTI staff, and
-candidates will receive the score and notification of whether they
-achieved a passing grade. The percentage of correct answers required to
-achieve a passing score varies with the specific certifications, as outlined
-by the ASSE standards for Medical Gas Systems Personnel. These score
-requirements are outlined in the specific candidate handbooks. In the case
-of practical examinations, an independent testing laboratory and
-certified welding inspector will qualify the brazing coupons. Candidates
-must achieve an 80% or greater penetration on both the vertical and
-horizontal brazing positions.
+The percentage of correct answers required to achieve a passing score
+varies with the specific certifications, as outlined by the ASSE
+standards for Medical Gas Systems Personnel. These score requirements are
+outlined in the specific candidate handbooks, and are applied identically
+to candidates regardless of the pathway by which they received training.
+
+**In-person training.** Scoring of exams happens as soon as possible by
+the MGTI staff, and candidates will receive the score and notification of
+whether they achieved a passing grade.
+
+**Online training.** Written examinations are scored by the system
+immediately upon submission. The score is the percentage of items
+answered correctly out of the total number of items on the examination
+form; items left unanswered are scored as incorrect. The candidate is
+shown the score and the pass/fail result immediately upon submission and
+also receives written notification of the result. The score, the result,
+and the date are recorded in the candidate's certification record. Where
+a certification requires a written practical examination, the candidate's
+responses are submitted for review by MGTI personnel, and the result is
+recorded in the candidate's certification record when that review is
+complete.
+
+In the case of practical examinations, an independent testing laboratory
+and certified welding inspector will qualify the brazing coupons.
+Candidates must achieve an 80% or greater penetration on both the
+vertical and horizontal brazing positions.
 
 ## 3.9 Re-Examination
 
-$$$
-Candidates who do not pass an examination may retake it immediately. The
-re-examining candidate may need to submit a new application and payment
-of a new fee.
+Candidates who do not pass an examination may retake it immediately.
+There is no waiting period between attempts, and MGTI does not place a
+limit on the number of times a candidate may be re-examined. Every
+attempt is recorded in the candidate's record.
+
+**In-person training.** The re-examining candidate may need to submit a
+new application and payment of a new fee.
+
+**Online training.** Each enrollment includes the number of examination
+attempts established for that certification. A candidate who has used the
+attempts included with the enrollment may purchase an additional attempt,
+which is made available immediately upon payment. A new application is
+not required for a re-examination, provided the information in the
+candidate's application remains accurate and the enrollment period has
+not expired; a candidate whose information has changed must update it
+before being re-examined. Each re-examination is subject to the same
+conditions as the original examination, including proctor designation,
+the time limit for that certification, and a newly assembled examination
+form drawn from the item bank. Re-examinations must be completed within
+the one hundred eighty (180) day enrollment period described in
+Section 3.5.
 
 ## 3.10 Requests for Review of Questions
 
-$$$
-A candidate may challenge any item/question on any exam by completing the question
-challenge form provided in candidate handbooks. Requests for
-clarification will be addressed as soon as possible by MGTI
+A candidate may challenge any item/question on any exam.
+
+**In-person training.** Candidates challenge an item by completing the
+question challenge form provided in candidate handbooks.
+
+**Online training.** Candidates may challenge any item directly within
+the examination interface at the time the item is presented, by selecting
+a reason for the challenge and providing a written explanation.
+Submitting a challenge does not interrupt the examination and does not
+alter the candidate's response to that item. Each challenge is recorded
+against the item, the candidate, and the examination attempt on which it
+was raised, and is queued for review by MGTI staff, whose resolution and
+notes are recorded with the challenge.
+
+Candidates of either pathway may also submit a challenge or a request for
+clarification in writing to MGTI following the examination.
+
+Requests for clarification will be addressed as soon as possible by MGTI
 staff. In the case of a perceived technical error MGTI personnel will
 review the items/questions and correct any actual errors. In the event of an
 actual error on the examination all current exams taken and impacted by the
@@ -372,17 +542,29 @@ Executive Director for review.
 
 ## 4.1 Issuance of Certification
 
-$$$
 A candidate who passes the examination is awarded the corresponding
-medical gas certification credentials. In recognition of this
-accomplishment the candidate will be issued a certification package within thirty (30) business days. The certification package will include a wall Certificate of Completion, an ASSE 6000 Certification card, an ASME IX Brazing Certification card (if applicable), and any
-other pertinent certification documentation. Certification is valid for the period
-applicable to the particular certification, as determined by the ASSE
-6000 standard.
+medical gas certification credentials. Before a certification is issued,
+MGTI verifies that the candidate has completed the required training,
+that a complete Program Application is on file, that the required proctor
+confirmation has been received, that the candidate achieved a passing
+score on the written examination, and, where applicable, that the
+practical examination and brazing qualification requirements have been
+met. This verification is performed for candidates of both pathways.
+
+In recognition of this accomplishment the candidate will be issued a
+certification package within thirty (30) business days. The certification
+package will include a wall Certificate of Completion, an ASSE 6000
+Certification card, an ASME IX Brazing Certification card (if
+applicable), and any other pertinent certification documentation.
+Candidates who completed online training also receive electronic copies
+of their certificate and identification card, which remain available to
+them through their MGTI account. Electronic issuance does not alter the
+validity period or the terms of the certification. Certification is valid
+for the period applicable to the particular certification, as determined
+by the ASSE 6000 standard.
 
 ## 4.2 Renewal of Certification
 
-$$$
 Attaining certification is an indication of mastery of a well-defined
 body of knowledge at a given point in time. As codes and standards are updated
 periodic renewal of the certification is required to maintain certified
@@ -414,6 +596,17 @@ Failure to renew a certification by the expiration date will result in
 expiration of the certification, and may require retaking of the initial
 certification exam.
 
+Where the renewal course is delivered online, the certified person
+completes the required renewal lessons within the MGTI learning
+management system, completes the Certification Renewal Application
+identifying each certification being renewed, and then takes the
+recertification examination, which is scored and recorded in the manner
+described in Section 3.8. Certified persons renewing an ASSE 6010 or ASSE
+6015 certification must additionally document continuity of their brazing
+qualification, providing the dates and witnesses for brazing performed at
+intervals not exceeding six (6) months over the preceding three (3)
+years.
+
 ## 4.3 Failing to Renew
 
 A certified person who fails to renew his/her certification is no longer
@@ -425,35 +618,21 @@ fees and provisions for testing).
 
 ## 4.4 Notification to Certified Personnel and Stakeholders of Updated and New Certifications
 
-$$$
 Certified persons and stakeholders will be notified of updates to
 existing certifications, lapses in certification, and any other changes
-via electronic mail and are available on the website certification lookup tool. As
-described above, MGTI notifies certified personnel when their
-certifications are due for renewal, along with the time frame for
-completing the training and renewal exam and any other steps necessary to
-achieve recertification.
+via electronic mail. As described above, MGTI notifies certified
+personnel in advance of the date their certifications are due for
+renewal, along with the time frame for completing the training and
+renewal exam and any other steps necessary to achieve recertification.
 
-## 4.5 Use of Certification Mark
-
-$$$ REMOVE?
-Medical gas professionals certified by MGTI may use the MGTI
-certification mark on letterhead, business cards, vehicles, etc. for
-their business/service to display their qualification. However, the MGTI
-certification mark may not be used in any manner that would imply a
-connection between the certified individual and MGTI which, in fact, may
-not exist. This could include any use of the mark that may imply an
-endorsement of a business or sale of a product by MGTI. The MGTI emblem
-may not be revised or altered in any way. It must be displayed in the
-same form as produced by MGTI. The MGTI certification mark may not be
-used in any manner that is inconsistent with the values and standards of
-MGTI or those set forth by the professional healthcare community in
-general. MGTI retains all rights to the logo exclusively, and reserves
-the right to require its removal from any situation deemed inconsistent
-with these guidelines or which could discredit MGTI. Use of the
-certification mark is prohibited if a certification is expired. Should
-any person continue use of MGTI's certification mark after notice of
-suspension or revocation, legal action will be taken.
+The current status of any certification issued by MGTI is also publicly
+available through the certification lookup tool on the MGTI website,
+which allows employers, authorities having jurisdiction, and other
+stakeholders to confirm whether a certification is current and to verify
+an individual certificate. Certified persons who hold an MGTI account may
+additionally view the status of each of their certifications, and
+retrieve their certification documents, at any time through that
+account.
 
 # 5. Adherence to Professional Standards of Conduct
 
@@ -620,7 +799,10 @@ confidentiality and conflict of interest:
    disclosure or theft of materials or information.
 
 4. Upon request, all examination materials will be promptly returned to
-   MGTI using secure and reliable methods for doing so.
+   MGTI using secure and reliable methods for doing so. Electronic
+   examination materials shall be permanently deleted from any system
+   not controlled by MGTI, and any access granted for the purpose of
+   testing or certification activities shall be relinquished.
 
 5. In order to maintain the integrity of the certification process no
    personnel involved will engage in any activities that would give any
