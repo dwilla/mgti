@@ -8,7 +8,7 @@ This packet responds, item by item, to Minnesota's request for
 information supporting recognition of MGTI's ASSE 6010 Medical Gas
 Systems Installer certification program. Where a requested item draws on
 MGTI's Policies and Procedures, that source section is cited (P&P refers
-to `README.md` in the MGTI/go-lms repository, which is MGTI's
+to `docs/policies-and-procedures.md` in this repository, which is MGTI's
 authoritative internal Policies and Procedures document).
 
 ---
