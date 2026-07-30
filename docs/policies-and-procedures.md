@@ -146,14 +146,8 @@ comprised of a verification of work experience prerequisites, a 24 or 32-hour
 training course, recertification trainings, and written and
 practical examinations.
 
-MGTI delivers its training through two pathways: in-person instruction
-in a classroom setting, and online instruction delivered through MGTI's
-learning management system. The certification requirements are identical
-for both pathways — the same prerequisites, the same application
-information, the same examination content and passing scores, and the
-same certification decision process. Where the administrative procedure
-differs between the two pathways, that difference is identified in the
-applicable section below.
+MGTI provides for their approved training providers to deliver the applications and examinations through two pathways. The two pathways offered include in-person and online. The certification requirements are identical for both pathways. This includes the same prerequisites, application
+information, examination content and passing scores, and certification decision processes. Where the administrative procedures differs between the two pathways, that difference is identified in the applicable section below.
 
 ## 2.1 Certifications Administered by MGTI
 
@@ -179,48 +173,14 @@ ASME IX Brazing Certification
 
 ## 2.2 Application Procedures
 
-Every candidate must complete and submit the Program Application before a
-certification is granted. The application collects the information that
-verifies eligibility, requires the candidate to attest to the experience
-prerequisites applicable to the certification sought, and requires the
-candidate's agreement to the *Professional Standards of Conduct* set
-forth in Section 5. These standards must be adhered to in order to remain
-an authorized certificate holder. Applications are reviewed by the
-program administrator, and the certification decision is made
-independently of the training process as described in Section 2.3.
+Every candidate must complete and submit the Program Application before an exam is allowed to be administered. The application collects the information that verifies eligibility, requires the candidate to attest to the experience prerequisites applicable to the certification sought, and requires the candidate's agreement to the *Professional Standards of Conduct* set forth in Section 5. These standards must be adhered to in order to remain an authorized certification holder. Applications are reviewed by the program administrator, and the certification decision is made independently of the training process as described in Section 2.3.
 
-**In-person training.** Candidates complete the Program Application and
-submit it to the program administrator for review prior to entering into
-a certification program.
+**In-person.** Candidates complete the Program Application and submit it to the program administrator for review prior to entering into a certification program.
 
-**Online training.** The Program Application is completed within the MGTI
-learning management system after the candidate has completed all lessons
-of the online training course, and must be submitted before the final
-examination is released to the candidate. In addition to the eligibility
-information and the *Professional Standards of Conduct* agreement, the
-online application requires:
+**Online.** The Program Application is completed within the approved online training provider's learning management system after the candidate has completed all of the lessons for the online training course, and must be submitted before the final
+examination is released to the candidate.
 
-A. The candidate's current contact and employer information
-
-B. A photograph of the candidate for use on the certification record and
-   identification card
-
-C. Attestation to the experience prerequisites specific to the
-   certification sought
-
-D. Supporting documentation where a prerequisite requires it, such as a
-   current ASSE 6030 certificate for an ASSE 6035 candidate, or the prior
-   certificate of a candidate transferring an existing certification from
-   another provider
-
-E. An affidavit that the candidate is the person who will sit the final
-   examination, that the examination will be completed without
-   assistance, and that only the reference materials permitted for that
-   examination will be used
-
-Regardless of the pathway by which a candidate applies, MGTI verifies
-that the required training has been completed and that a complete
-application is on file before a certification is issued.
+Regardless of the pathway by which a candidate applies, MGTI verifies that the required training has been completed and that an approved application is on file.
 
 ## 2.3 Prerequisites
 
@@ -310,7 +270,7 @@ administrative systems, with access restricted by role-based
 authentication and granted only to those personnel involved in the
 examination process who have signed the Non Disclosure and
 Confidentiality Agreement. Examination items are not released to
-candidates in any printable or downloadable form, no examination
+candidates in any printable or downloadable format, no examination
 materials are physically transported at any point, and candidate
 responses are recorded directly to MGTI's secure records.
 
