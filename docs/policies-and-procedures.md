@@ -307,33 +307,30 @@ MGTI is committed to the goal of equity in offering certification opportunities 
 
 ## 3.7 Proctor Information
 
-MGTI exams may be proctored by a third party when necessary. When this is the case proctors will be required to accept an agreement verifying that exams will be proctored professionally and in accordance with the guidelines set forth, including confirmation of the candidate's identity, the maintenance of confidentiality and impartiality, and the avoidance of any conflicts of interest. The proctor designated must be a person who does not have a personal interest in the outcome of the candidate's examination. Whether exams are proctored by MGTI personnel or another proctor, MGTI is committed to maintaining the integrity and security of the exams, exam items/questions, and the examination process.
+MGTI exams may be proctored by a third party when necessary. When this is the case proctors will be required to accept an agreement verifying that exams will be proctored professionally and in accordance with the guidelines outlined in the agreement, including confirmation of the candidate's identity, the maintenance of confidentiality and impartiality, and the avoidance of any conflicts of interest. The proctor designated must be a person who does not have a personal interest in the outcome of the candidate's examination. Whether exams are proctored by MGTI personnel or another proctor, MGTI is committed to maintaining the integrity and security of the exams, exam items/questions, and the examination process.
 
 **In-person.** Third party proctors sign the proctor agreement before administering the examination.
 
-**Online.** Each candidate for an initial certification
-examination must designate a proctor before the examination is released. MGTI contacts the designated proctor directly and presents the proctor agreement for that person's acceptance. By accepting, the proctor attests that they confirmed the identity of the candidate, that they witnessed the examination environment and that the candidate completed the examination without assistance beyond the permitted reference materials, and that they will maintain confidentiality and impartiality and avoid any conflict of interest.
+**Online.** Each candidate for an initial certification examination must designate a proctor before the examination is released. MGTI contacts the designated proctor directly and presents the proctor agreement for that person's acceptance. By accepting, the proctor attests that they confirmed the identity of the candidate, that they witnessed the examination environment and that the candidate completed the examination without assistance beyond the permitted reference materials, and that they will maintain confidentiality and impartiality and avoid any conflicts of interest.
 
-For online examinations, proctor confirmation is a condition of certification rather than a condition of sitting the examination. A candidate may begin the examination once a proctor has been designated, but no certification is issued until the designated proctor's acceptance and confirmation have been received and recorded in the candidate's file. If a confirmation is not received, or if the designated proctor declines to confirm, the certification is not processed and the matter is referred to MGTI staff for review.
+For online examinations, proctor confirmation is a condition of certification issuance. A candidate may begin the examination once a proctor has been designated, but no certification is issued until the designated proctor's acceptance and confirmation have been received and recorded in the candidate's file. If a confirmation is not received, or if the designated proctor declines to confirm, the certification is not processed and the matter is referred to MGTI staff for review.
 
 Recertification examinations are not proctored, as described in
 Section 4.2.
 
 ## 3.8 Examination Scoring
 
-The percentage of correct answers required to achieve a passing score varies with the specific certifications, as outlined by the ASSE standards for Medical Gas Systems Personnel. These score requirements are outlined in the specific candidate handbooks, and are applied identically to candidates regardless of the pathway by which they received training.
+The percentage of correct answers required to achieve a passing score varies with the specific certifications, as outlined by the ASSE 6000 Standard for Medical Gas Systems Personnel. These score requirements are outlined in the specific candidate handbooks, and are applied identically to candidates regardless of the pathway by which they received training.
 
 **In-person.** Scoring of exams happens as soon as possible by the MGTI staff, and candidates will receive the score and notification of whether they achieved a passing grade.
 
-**Online.** Written examinations are scored by the system immediately upon submission. The score is the percentage of items answered correctly out of the total number of items on the examination form; items left unanswered are scored as incorrect. The candidate is shown the score and the pass/fail result immediately upon submission and also receives written notification of the result. The score, the result, and the date are recorded in the candidate's certification record. Where a certification requires a written practical examination, the candidate's responses are submitted for review by MGTI personnel, and the result is recorded in the candidate's certification record when that review is complete.
+**Online.** Written examinations are scored by the system immediately upon submission. The score is the percentage of items answered correctly out of the total number of items/questions on the examination form; items/questions left unanswered are scored as incorrect. The candidate is shown the score and the pass/fail result immediately upon submission and also receives written notification of the result. The score, the result, and the date are recorded in the candidate's certification record. Where a certification requires a written practical examination, the candidate's responses are submitted for review by MGTI personnel, and the result is recorded in the candidate's certification record when that review is complete.
 
 ## 3.9 Re-Examination
 
-Candidates who do not pass an examination may retake it immediately. There is no waiting period between attempts, and MGTI does not place a limit on the number of times a candidate may be re-examined. Every attempt is recorded in the candidate's record.
+Candidates who do not pass an examination may retake it immediately. There is no waiting period between attempts, and MGTI does not place a limit on the number of times a candidate may be re-examined. Every attempt is recorded in the candidate's record. Additional examination fees may be assessed.
 
-**In-person.** The re-examining candidate may need to submit a new application and payment of a new fee.
-
-**Online.** Each enrollment includes the number of examination attempts established for that certification. A candidate who has used the attempts included with the enrollment may purchase an additional attempt, which is made available immediately upon payment. A new application is not required for a re-examination, provided the information in the candidate's application remains accurate and the enrollment period has not expired; a candidate whose information has changed must update it before being re-examined. Each re-examination is subject to the same conditions as the original examination, including proctor designation, the time limit for that certification, and a newly assembled examination drawn from the question bank.
+A new application is not required for a re-examination, provided the information in the candidate's application remains accurate. A candidate whose information has changed must update it before being re-examined. Each re-examination is subject to the same conditions as the original examination, including proctor designation, the time limit for that certification, and a newly assembled examination drawn from the question bank.
 
 ## 3.10 Requests for Review of Questions
 
@@ -347,7 +344,7 @@ question challenge form provided in candidate handbooks.
 Candidates of either pathway may also submit a challenge or a request for
 clarification in writing to MGTI following the examination.
 
-Requests for clarification will be addressed as soon as possible by MGTI staff. In the case of a perceived technical error MGTI personnel will review the items/questions and correct any actual errors. In the event of an actual error on the examination all current exams taken and impacted by the error will be adjusted accordingly. The MGTI examination committee will be notified of any corrections, and in the case that an error is highly technical they will be consulted to make the necessary corrections. In the event that a flawed question impacts a candidate's pass/fail exam score, that exam score will be adjusted immediately.
+Requests for clarification will be addressed as soon as possible by MGTI staff. In the case of a perceived technical error MGTI personnel will review the items/questions and correct any actual errors. In the event of an actual error on the examination all current exams taken and impacted by the error will be adjusted accordingly. The MGTI examination committee will be notified of any corrections, and in the case that an error is highly technical they will be consulted to make the necessary corrections. In the event that a flawed question impacts a candidate's pass/fail exam score, that exam score will be adjusted accordingly.
 
 ## 3.11 Examination Appeals
 
