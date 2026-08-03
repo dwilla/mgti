@@ -63,7 +63,6 @@ def build_page(src_file: Path) -> None:
     page_key = m.group(1) if m else ''
 
     replacements = {
-        'banner': partial('banner'),
         'header': partial('header'),
         'nav':    build_nav(page_key),
         'footer': partial('footer'),
