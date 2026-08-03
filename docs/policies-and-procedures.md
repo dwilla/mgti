@@ -294,209 +294,61 @@ validity.
 
 ## 3.5 Examination Process
 
-All examinations administered by MGTI are proctored by qualified
-individuals in accordance with Section 3.7, under consistent conditions
-conducive to testing. Examination content, form length, and time limits
-are the same for a given certification regardless of the pathway by which
-the candidate received training.
+All examinations administered by MGTI are proctored by individuals in accordance with Section 3.7, under consistent conditions conducive to testing. Examination content, form length, and time limits are the same for a given certification regardless of the pathway.
 
-**In-person training.** Examinations will be scheduled at sites
-convenient for candidates and deemed appropriate by MGTI. Completed exams
-shall be returned to the MGTI offices as soon as possible by the proctor.
+**In-person.** Examinations will be scheduled at sites
+convenient for candidates and deemed appropriate by MGTI. Completed exams shall be returned to the MGTI offices as soon as possible by the proctor.
 
-**Online training.** Examinations are delivered through MGTI's secure,
-access-controlled learning management system. The candidate must be
-authenticated to their own account, and the final examination is released
-only after the candidate has completed the required training and
-submitted a complete Program Application. Each examination is assembled
-at the time the candidate begins it, by randomly selecting the number of
-items established for that certification from the validated item bank for
-that certification. The order of the items, and the order of the answer
-options within each item, are randomized for each candidate, so that no
-two examination forms are identical. The time limit established for that
-certification begins when the candidate starts the examination and is
-enforced by the system, which submits the examination automatically for
-scoring when the time limit is reached. Within the time limit the
-candidate may move freely among the items, flag items for later review,
-and change answers before submitting. If a candidate's session is
-interrupted, the examination may be resumed from the point of
-interruption; elapsed time continues to count against the time limit.
-Candidates are permitted to use the reference materials identified for
-that examination, which are stated in the candidate handbook and
-acknowledged by the candidate on the Program Application.
-
-Candidates enrolled in online training must complete the training and the
-final examination, including any re-examination, within one hundred
-eighty (180) days of enrollment. Access to the course and the examination
-expires at the end of that period, and a candidate who has not completed
-the examination within it must re-enroll.
-
-All practical exams (brazing tests) shall be done under the conditions
-described in the Medical Gas Brazing Qualifications instruction manual,
-and all brazing coupons will be sent in to and inspected by a certified
-welding inspector. This requirement applies to candidates of both
-pathways.
+**Online.** Examinations are delivered through MGTI's secure, access-controlled learning management system. The candidate must be authenticated to their own account, and the final examination is released only after the candidate has completed the required training and submitted a completed Program Application. Each examination is assembled at the time the candidate begins it, by randomly selecting the number of items/questions established for that certification from the validated item/question bank for that certification. The order of the items, and the order of the answer options within each item, are randomized for each candidate, so that no two examination forms are identical. The time limit established for that certification begins when the candidate starts the examination and is enforced by the system, which submits the examination automatically for scoring when the time limit is reached. Within the time limit the candidate may move freely among the items, flag items for later review, and change answers before submitting. If a candidate's session is interrupted, the examination may be resumed from the point of interruption; elapsed time continues to count against the time limit. Candidates are permitted to use the reference materials identified for that examination, which are stated in the candidate handbook and acknowledged by the candidate on the Program Application.
 
 ## 3.6 Policy and Guidelines for Testing People With Disabilities
 
-MGTI is committed to the goal of equity in offering certification
-opportunities for people with disabilities, and strives to make training
-and examinations accessible to all qualified people. MGTI recognizes the
-four categories of disabilities that have been historically accommodated
-with testing programs: learning disabilities, physical disabilities
-(including temporary), hearing and visual impairments. MGTI adheres to
-the guidelines in the Rehabilitation Act and Americans with Disabilities
-Act, which states that people with disabilities do not have to be
-accommodated in certification testing programs unless it is determined
-that the specific impairment will not impact their actual job
-performance. If/when that is the determined case, MGTI will work with the
-candidate to accommodate the disability and make the examination and/or
-training accessible to them. MGTI examinations shall be administered at
-wheelchair accessible facilities, and proctors arranging for sites
-should notify MGTI whenever it is not possible to meet this or any other
-accessibility requirement. Requests for special accommodations in the
-examination and testing environment will be met if possible and
-appropriate. Requests must be submitted to and reviewed by MGTI prior to
-scheduling the examination, and should indicate the nature of
-the disability and the accommodation requested.
-Candidates may also need to provide documentation of the disability and
-the necessary accommodation by a licensed medical professional.
-Accommodations available for examinations delivered online include, but
-are not limited to, extended examination time, which MGTI applies to the
-candidate's examination record before the examination is released.
-Requests for special arrangements will be considered on a case-by-case
-basis, and will not require additional costs for the candidate.
+MGTI is committed to the goal of equity in offering certification opportunities for people with disabilities, and strives to make training and examinations accessible to all qualified people. MGTI recognizes the four categories of disabilities that have been historically accommodated with testing programs: learning disabilities, physical disabilities (including temporary), hearing and visual impairments. MGTI adheres to the guidelines in the Rehabilitation Act and Americans with Disabilities Act, which states that people with disabilities do not have to be accommodated in certification testing programs unless it is determined that the specific impairment will not impact their actual job performance. If/when that is the determined case, MGTI will work with the candidate to accommodate the disability and make the examination and/or training accessible to them. MGTI examinations shall be administered at wheelchair accessible facilities, and proctors arranging for sites should notify MGTI whenever it is not possible to meet this or any other accessibility requirement. Requests for special accommodations in the examination and testing environment will be met if possible and appropriate. Requests must be submitted to and reviewed by MGTI prior to scheduling the examination, and should indicate the nature of the disability and the accommodation requested. Candidates may also need to provide documentation of the disability and the necessary accommodation by a licensed medical professional. Accommodations available for examinations delivered online include, but are not limited to, extended examination time, which MGTI applies to the candidate's examination record before the examination is released. Requests for special arrangements will be considered on a case-by-case basis, and will not require additional costs for the candidate.
 
 ## 3.7 Proctor Information
 
-MGTI exams may be proctored by a third party when necessary. When this is
-the case proctors will be required to accept an agreement verifying that
-exams will be proctored professionally and in accordance with the
-guidelines set forth, including confirmation of the candidate's identity,
-the maintenance of confidentiality and impartiality, and the avoidance of
-any conflicts of interest. The proctor designated must be a person who
-does not have a personal interest in the outcome of the candidate's
-examination. Whether exams are proctored by MGTI personnel or another
-proctor, MGTI is committed to maintaining the integrity and security of
-the exams, exam items/questions, and the examination process.
+MGTI exams may be proctored by a third party when necessary. When this is the case proctors will be required to accept an agreement verifying that exams will be proctored professionally and in accordance with the guidelines outlined in the agreement, including confirmation of the candidate's identity, the maintenance of confidentiality and impartiality, and the avoidance of any conflicts of interest. The proctor designated must be a person who does not have a personal interest in the outcome of the candidate's examination. Whether exams are proctored by MGTI personnel or another proctor, MGTI is committed to maintaining the integrity and security of the exams, exam items/questions, and the examination process.
 
-**In-person training.** Third party proctors sign the proctor agreement
-before administering the examination.
+**In-person.** Third party proctors sign the proctor agreement before administering the examination.
 
-**Online training.** Each candidate for an initial certification
-examination must designate a proctor (witness) before the examination is
-released. MGTI contacts the designated proctor directly and presents the
-proctor agreement for that person's acceptance. By accepting, the proctor
-attests that they confirmed the identity of the candidate, that they
-witnessed the examination environment and that the candidate completed
-the examination without assistance beyond the permitted reference
-materials, and that they will maintain confidentiality and impartiality
-and avoid any conflict of interest.
+**Online.** Each candidate for an initial certification examination must designate a proctor before the examination is released. MGTI contacts the designated proctor directly and presents the proctor agreement for that person's acceptance. By accepting, the proctor attests that they confirmed the identity of the candidate, that they witnessed the examination environment and that the candidate completed the examination without assistance beyond the permitted reference materials, and that they will maintain confidentiality and impartiality and avoid any conflicts of interest.
 
-For online examinations, proctor confirmation is a condition of
-certification rather than a condition of sitting the examination. A
-candidate may begin the examination once a proctor has been designated,
-but no certification is issued until the designated proctor's acceptance
-and confirmation have been received and recorded in the candidate's file.
-If a confirmation is not received, or if the designated proctor declines
-to confirm, the certification is not processed and the matter is referred
-to MGTI staff for review.
+For online examinations, proctor confirmation is a condition of certification issuance. A candidate may begin the examination once a proctor has been designated, but no certification is issued until the designated proctor's acceptance and confirmation have been received and recorded in the candidate's file. If a confirmation is not received, or if the designated proctor declines to confirm, the certification is not processed and the matter is referred to MGTI staff for review.
 
 Recertification examinations are not proctored, as described in
 Section 4.2.
 
 ## 3.8 Examination Scoring
 
-The percentage of correct answers required to achieve a passing score
-varies with the specific certifications, as outlined by the ASSE
-standards for Medical Gas Systems Personnel. These score requirements are
-outlined in the specific candidate handbooks, and are applied identically
-to candidates regardless of the pathway by which they received training.
+The percentage of correct answers required to achieve a passing score varies with the specific certifications, as outlined by the ASSE 6000 Standard for Medical Gas Systems Personnel. These score requirements are outlined in the specific candidate handbooks, and are applied identically to candidates regardless of the pathway by which they received training.
 
-**In-person training.** Scoring of exams happens as soon as possible by
-the MGTI staff, and candidates will receive the score and notification of
-whether they achieved a passing grade.
+**In-person.** Scoring of exams happens as soon as possible by the MGTI staff, and candidates will receive the score and notification of whether they achieved a passing grade.
 
-**Online training.** Written examinations are scored by the system
-immediately upon submission. The score is the percentage of items
-answered correctly out of the total number of items on the examination
-form; items left unanswered are scored as incorrect. The candidate is
-shown the score and the pass/fail result immediately upon submission and
-also receives written notification of the result. The score, the result,
-and the date are recorded in the candidate's certification record. Where
-a certification requires a written practical examination, the candidate's
-responses are submitted for review by MGTI personnel, and the result is
-recorded in the candidate's certification record when that review is
-complete.
-
-In the case of practical examinations, an independent testing laboratory
-and certified welding inspector will qualify the brazing coupons.
-Candidates must achieve an 80% or greater penetration on both the
-vertical and horizontal brazing positions.
+**Online.** Written examinations are scored by the system immediately upon submission. The score is the percentage of items answered correctly out of the total number of items/questions on the examination form; items/questions left unanswered are scored as incorrect. The candidate is shown the score and the pass/fail result immediately upon submission and also receives written notification of the result. The score, the result, and the date are recorded in the candidate's certification record. Where a certification requires a written practical examination, the candidate's responses are submitted for review by MGTI personnel, and the result is recorded in the candidate's certification record when that review is complete.
 
 ## 3.9 Re-Examination
 
-Candidates who do not pass an examination may retake it immediately.
-There is no waiting period between attempts, and MGTI does not place a
-limit on the number of times a candidate may be re-examined. Every
-attempt is recorded in the candidate's record.
+Candidates who do not pass an examination may retake it immediately. There is no waiting period between attempts, and MGTI does not place a limit on the number of times a candidate may be re-examined. Every attempt is recorded in the candidate's record. Additional examination fees may be assessed.
 
-**In-person training.** The re-examining candidate may need to submit a
-new application and payment of a new fee.
-
-**Online training.** Each enrollment includes the number of examination
-attempts established for that certification. A candidate who has used the
-attempts included with the enrollment may purchase an additional attempt,
-which is made available immediately upon payment. A new application is
-not required for a re-examination, provided the information in the
-candidate's application remains accurate and the enrollment period has
-not expired; a candidate whose information has changed must update it
-before being re-examined. Each re-examination is subject to the same
-conditions as the original examination, including proctor designation,
-the time limit for that certification, and a newly assembled examination
-form drawn from the item bank. Re-examinations must be completed within
-the one hundred eighty (180) day enrollment period described in
-Section 3.5.
+A new application is not required for a re-examination, provided the information in the candidate's application remains accurate. A candidate whose information has changed must update it before being re-examined. Each re-examination is subject to the same conditions as the original examination, including proctor designation, the time limit for that certification, and a newly assembled examination drawn from the question bank.
 
 ## 3.10 Requests for Review of Questions
 
 A candidate may challenge any item/question on any exam.
 
-**In-person training.** Candidates challenge an item by completing the
+**In-person.** Candidates challenge an item by completing the
 question challenge form provided in candidate handbooks.
 
-**Online training.** Candidates may challenge any item directly within
-the examination interface at the time the item is presented, by selecting
-a reason for the challenge and providing a written explanation.
-Submitting a challenge does not interrupt the examination and does not
-alter the candidate's response to that item. Each challenge is recorded
-against the item, the candidate, and the examination attempt on which it
-was raised, and is queued for review by MGTI staff, whose resolution and
-notes are recorded with the challenge.
+**Online.** Candidates may challenge any item directly within the examination interface at the time the item is presented, by selecting a reason for the challenge and providing a written explanation. Submitting a challenge does not interrupt the examination and does not alter the candidate's response to that item. Each challenge is recorded against the item, the candidate, and the examination attempt on which it was raised, and is queued for review by MGTI staff, whose resolution and notes are recorded with the challenge.
 
 Candidates of either pathway may also submit a challenge or a request for
 clarification in writing to MGTI following the examination.
 
-Requests for clarification will be addressed as soon as possible by MGTI
-staff. In the case of a perceived technical error MGTI personnel will
-review the items/questions and correct any actual errors. In the event of an
-actual error on the examination all current exams taken and impacted by the
-error will be adjusted accordingly. The MGTI examination committee will
-be notified of any corrections, and in the case that an error is highly
-technical they will be consulted to make the necessary corrections. In
-the event that a flawed question impacts a candidate's pass/fail exam
-score, that exam score will be adjusted immediately.
+Requests for clarification will be addressed as soon as possible by MGTI staff. In the case of a perceived technical error MGTI personnel will review the items/questions and correct any actual errors. In the event of an actual error on the examination all current exams taken and impacted by the error will be adjusted accordingly. The MGTI examination committee will be notified of any corrections, and in the case that an error is highly technical they will be consulted to make the necessary corrections. In the event that a flawed question impacts a candidate's pass/fail exam score, that exam score will be adjusted accordingly.
 
 ## 3.11 Examination Appeals
 
-Candidates may appeal the score of a final examination. Appeals shall be
-filed in writing to the Medical Gas Training Institute office via U.S.
-Mail, facsimile, or electronic mail no later than thirty (30) days from
-the date the candidate receives the score. Appellants will be notified
-in writing of the decision by the organization. If a candidate is not
-satisfied by the appeal decision by MGTI staff they may then take the
-appeal to the MGTI Examination Committee Chair, and finally to the
-Executive Director for review.
+Candidates may appeal the score of a final examination. Appeals shall be filed in writing to the Medical Gas Training Institute office via U.S. Mail, facsimile, or electronic mail no later than thirty (30) days from the date the candidate receives the score. Appellants will be notified in writing of the decision by the organization. If a candidate is not satisfied by the appeal decision by MGTI staff they may then take the appeal to the MGTI Examination Committee Chair, and finally to the Executive Director for review.
 
 # 4. Certification
 
