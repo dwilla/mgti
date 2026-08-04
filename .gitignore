@@ -30,3 +30,14 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+
+# Licensed standards documents.
+# This repo is PUBLIC and is served at medgasinstitute.com by GitHub Pages from
+# the repo root, so anything committed here is downloadable by anyone. ISO/IEC,
+# ASSE, ASME and NFPA documents are licensed to a single named user and may not
+# be copied or redistributed — keep them out of this repo entirely.
+docs/ISO_IEC_*.pdf
+docs/ISO_*.pdf
+docs/NFPA_*.pdf
+docs/ASSE_*.pdf
+docs/ASME_*.pdf
