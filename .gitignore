@@ -31,6 +31,12 @@ go.work.sum
 # .idea/
 # .vscode/
 
+# Build output — assembled by build.py, published by .github/workflows/pages.yml
+site/
+
+# Internal working notes. Not for the public repo.
+_internal/
+
 # Licensed standards documents.
 # This repo is PUBLIC and is served at medgasinstitute.com by GitHub Pages from
 # the repo root, so anything committed here is downloadable by anyone. ISO/IEC,

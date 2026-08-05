@@ -1,0 +1,57 @@
+name: Deploy site to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Never cancel a deploy mid-flight; queue instead.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Build site
+        run: python build.py
+
+      - name: Verify build output
+        run: |
+          set -euo pipefail
+          test -f site/index.html
+          test -f site/CNAME
+          test -f site/shared/styles.css
+          # Deny-by-default backstop: licensed standards and internal governance
+          # documents must never reach the published artifact.
+          if find site -type f \( -name '*.pdf' -o -name '*.md' \) | grep .; then
+            echo "::error::Refusing to publish — PDF or Markdown found in site/"
+            exit 1
+          fi
+          echo "Publishing $(find site -type f | wc -l) files."
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

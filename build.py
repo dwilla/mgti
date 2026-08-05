@@ -1,13 +1,22 @@
 #!/usr/bin/env python3
-"""Stamp shared partials into every page template and write built HTML to the root."""
+"""Stamp shared partials into every page template and write the built site to site/.
+
+site/ is the *only* thing published. It is assembled from an explicit allow list —
+the page templates plus ASSETS below — so nothing else in the repo can reach the
+public site by accident, no matter what else lands here.
+"""
 
 import re
+import shutil
 from pathlib import Path
 
 SRC        = Path('src')
 PARTIALS   = SRC / 'partials'
 PAGES      = SRC / 'pages'
-OUT        = Path('.')
+OUT        = Path('site')
+
+# Copied into the build output verbatim. Anything not listed here is not published.
+ASSETS = ['shared', 'CNAME']
 
 # Pages that live inside a nav dropdown — maps data-page value → data-nav-group value
 PAGE_GROUPS = {
@@ -76,14 +85,34 @@ def build_page(src_file: Path) -> None:
     print(f'  {src_file.name}')
 
 
+def copy_assets() -> None:
+    for name in ASSETS:
+        src = Path(name)
+        if not src.exists():
+            raise SystemExit(f'Missing asset: {name}')
+        dest = OUT / name
+        if src.is_dir():
+            shutil.copytree(src, dest)
+        else:
+            shutil.copy2(src, dest)
+        print(f'  {name}')
+
+
 def main():
     pages = sorted(PAGES.glob('*.html'))
     if not pages:
         print('No pages found in src/pages/')
         return
-    print(f'Building {len(pages)} pages...')
+
+    if OUT.exists():
+        shutil.rmtree(OUT)
+    OUT.mkdir()
+
+    print(f'Building {len(pages)} pages into {OUT}/...')
     for page in pages:
         build_page(page)
+    print('Copying assets...')
+    copy_assets()
     print('Done.')
 
 
