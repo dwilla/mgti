@@ -37,13 +37,16 @@ site/
 # Internal working notes. Not for the public repo.
 _internal/
 
-# Licensed standards documents.
-# This repo is PUBLIC and is served at medgasinstitute.com by GitHub Pages from
-# the repo root, so anything committed here is downloadable by anyone. ISO/IEC,
-# ASSE, ASME and NFPA documents are licensed to a single named user and may not
-# be copied or redistributed — keep them out of this repo entirely.
-docs/ISO_IEC_*.pdf
-docs/ISO_*.pdf
-docs/NFPA_*.pdf
-docs/ASSE_*.pdf
-docs/ASME_*.pdf
+# THIS REPO IS PUBLIC. Anything committed here is world-readable on GitHub, and
+# anything reaching site/ is served at medgasinstitute.com.
+#
+# Governance and certification documents belong in the private mgdocs repo
+# (~/workspace/github_repos/mgdocs), not here. Licensed ISO/IEC, ASSE, ASME and
+# NFPA standards belong in no repo at all — they are single-user licensed and
+# prohibit copying and networking. These patterns are a backstop, not a policy.
+ISO_IEC_*
+ISO_*.pdf
+NFPA_*
+ASSE_*
+ASME_*
+docs/
