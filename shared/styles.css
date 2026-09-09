@@ -21,19 +21,41 @@ body {
 .site-header a {
     text-decoration: none;
 }
-.site-header .site-title {
-    font-family: 'Rubik', sans-serif;
-    font-size: 1.6rem;
-    font-weight: 700;
-    color: var(--mgti-blue);
-    margin: 0;
-    line-height: 1.2;
+.site-header .site-brand {
+    display: flex;
+    align-items: center;
+    gap: 1.25rem;
+}
+.site-header .site-logo {
+    display: block;
+    width: auto;
+    height: 80px;
+    flex: none;
 }
 .site-header .site-tagline {
     font-size: 0.85rem;
     color: #666;
     margin: 0;
     letter-spacing: 0.03em;
+    padding-left: 1.25rem;
+    border-left: 1px solid #dbdbdb;
+}
+@media screen and (max-width: 768px) {
+    .site-header .site-brand {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 0.5rem;
+    }
+    .site-header .site-logo {
+        height: 64px;
+    }
+    .site-header .site-tagline {
+        padding-left: 0;
+        border-left: 0;
+    }
+    .site-header > .container {
+        padding: 0 0.75rem;
+    }
 }
 
 /* ── Primary Nav ── */

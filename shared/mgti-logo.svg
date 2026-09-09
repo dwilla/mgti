@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 113.83 54.58">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 10.14px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #26576b;
+      }
+
+      .cls-1, .cls-3 {
+        font-family: AcuminPro-Bold, 'Acumin Pro', 'Rubik', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+        font-weight: 700;
+      }
+
+      .cls-4 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-5 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-6 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3 {
+        fill: #279292;
+        font-size: 12.68px;
+      }
+
+      .cls-8 {
+        letter-spacing: 0em;
+      }
+
+      .cls-9 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-10 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-11 {
+        letter-spacing: 0em;
+      }
+
+      .cls-12 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-13 {
+        letter-spacing: 0em;
+      }
+
+      .cls-14 {
+        letter-spacing: 0em;
+      }
+
+      .cls-15 {
+        letter-spacing: 0em;
+      }
+
+      .cls-16 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <text class="cls-1" transform="translate(25.23 45.61)"><tspan class="cls-4" x="0" y="0">T</tspan><tspan class="cls-6" x="5.38" y="0">r</tspan><tspan x="9.2" y="0">aining </tspan><tspan class="cls-5" x="40.94" y="0">I</tspan><tspan class="cls-13" x="43.96" y="0">n</tspan><tspan class="cls-8" x="49.88" y="0">s</tspan><tspan class="cls-11" x="55.05" y="0">t</tspan><tspan x="58.64" y="0">i</tspan><tspan class="cls-9" x="61.4" y="0">t</tspan><tspan class="cls-16" x="64.97" y="0">u</tspan><tspan class="cls-12" x="70.99" y="0">t</tspan><tspan x="74.57" y="0">e</tspan></text>
+  <text class="cls-3" transform="translate(19.16 35.51)"><tspan class="cls-10" x="0" y="0">M</tspan><tspan class="cls-15" x="11.08" y="0">e</tspan><tspan x="18.23" y="0">dical </tspan><tspan class="cls-7" x="49.75" y="0">G</tspan><tspan class="cls-14" x="59.2" y="0">a</tspan><tspan x="66.17" y="0">s</tspan></text>
+  <path class="cls-2" d="M14.19,32.77s-7.3-4.26-7.63-9.04c0-4.23,14.69-7.16,21.1-9.13,6.49-1.99,15.3-4.72,21.1-9.19-2.96,4.87-12.29,9.62-21.79,13.68-5.27,2.26-12.33,4.67-14.49,7.28-1.33,1.95,1.7,6.4,1.7,6.4Z"/>
+</svg>
