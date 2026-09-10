@@ -22,6 +22,7 @@ ASSETS = ['shared', 'CNAME']
 PAGE_GROUPS = {
     'about-page':          'about',
     'standards':           'about',
+    'proctor-agreement':   'about',
     'certifications-page': 'certifications',
     '6005':                'certifications',
     '6010':                'certifications',

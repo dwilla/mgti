@@ -426,3 +426,68 @@ a.cert-card:hover {
     color: #fff;
     text-decoration: underline;
 }
+
+/* ── Reproduced document: specimen of a form MGTI presents elsewhere ── */
+.doc-specimen {
+    background: #fff;
+    border: 1px solid #dce3ec;
+    border-left: 4px solid var(--mgti-blue);
+    border-radius: 4px;
+    padding: 1.25rem 1.5rem;
+    margin-bottom: 1.5rem;
+    font-size: 0.925rem;
+    color: #444;
+}
+.doc-specimen p { margin-bottom: 0.9rem; line-height: 1.6; }
+.doc-specimen ul {
+    list-style: disc;
+    margin: 0 0 0.9rem 1.25rem;
+    padding: 0;
+}
+.doc-specimen ul li { margin-bottom: 0.4rem; line-height: 1.6; }
+
+/* Non-interactive checkboxes — this is a preview, not a live form */
+.doc-specimen ul.doc-checklist {
+    list-style: none;
+    margin-left: 0;
+}
+.doc-specimen ul.doc-checklist li {
+    position: relative;
+    padding-left: 1.9rem;
+    margin-bottom: 0.75rem;
+}
+.doc-specimen ul.doc-checklist li::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0.2rem;
+    width: 1.05rem;
+    height: 1.05rem;
+    border: 2px solid #b9c4d2;
+    border-radius: 3px;
+    background: #f6f8fb;
+}
+
+/* Placeholders MGTI fills in per candidate */
+.doc-field {
+    background: #eef2f7;
+    border-bottom: 1px dashed #9aa9bc;
+    padding: 0 0.3rem;
+    color: #5a6a7d;
+    font-style: italic;
+    white-space: nowrap;
+}
+
+/* Buttons shown in the specimen — deliberately inert */
+.doc-button {
+    display: inline-block;
+    border: 1px solid #c3ccd8;
+    border-radius: 3px;
+    background: #f2f5f9;
+    color: #7b8794;
+    padding: 0.1rem 0.6rem;
+    font-size: 0.85rem;
+    font-weight: 600;
+    line-height: 1.35;
+    cursor: not-allowed;
+}
